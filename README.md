@@ -73,7 +73,7 @@ to generate personalized and explainable career recommendations.
 # 📂 Repository Structure
 
 ```plaintext
-IPR Submission Proof/
-Report and PPT/
-Source Code/
+iprSubmissionProff/
+reportNdppt/
+sourceCode/
 README.md
